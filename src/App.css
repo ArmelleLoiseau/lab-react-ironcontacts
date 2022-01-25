@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.table-contacts {
+  margin: auto
+}
+
+.tablehead {
+  font-weight: bold;
+}
+
+.tablehead td, .tabledata {
+  width: 200px;
+}
+
+.tabledata img {
+  width: 150px;
+}
+
+.tabledata-text {
+  font-weight: bold;
+}
+
+.trophy {
+  font-size: 40px;
+}
